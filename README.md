@@ -2,8 +2,10 @@
 
 **Ketcher for VS Code** allows you to design and edit chemical structures directly within your favorite code editor. It integrates the robust [Ketcher](https://lifescience.opensource.epam.com/ketcher/) web-based molecularer editor into Visual Studio Code.
 
->[!note]
->
+> Note:
+> This VS Code extension is usable but has not been thoroughly tested. (02/03/2026)
+> If you want to use it, download 'chemical-editor-0.0.1.vsix' and install it to your VS Code extensions by 'Install from VSIX...'
+> After testing, I will publish it to VS Code extension market.
 
 ## Features
 
